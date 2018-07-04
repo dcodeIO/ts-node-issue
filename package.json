@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "node scripts/test"
+  },
+  "dependencies": {
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
